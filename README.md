@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Clone the Repo
 
 ```
-https://github.com/ppoply/ESRI-Image-Server-Services.git
+git clone https://github.com/ppoply/ESRI-Image-Server-Services.git
 ```
 
 ### Install Dependencies
